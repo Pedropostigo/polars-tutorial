@@ -1,0 +1,4 @@
+polars
+# connectorx to connect to databases
+connectorx>=0.3.1
+pyarrow
